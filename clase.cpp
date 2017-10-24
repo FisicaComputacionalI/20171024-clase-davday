@@ -5,12 +5,12 @@ using namespace std;
 int main ()
 {
 
-int N=12;
- int flag=0;
- int div=0;
+long  N=12;
+ long flag=0;
+ long div=0;
 cout <<"Dame un número" << endl;
 cin >> N;
- for(int i=2; i<N; i++)
+ for(long i=2; i<N; i++)
    {
      if(N%i ==0)
        {
