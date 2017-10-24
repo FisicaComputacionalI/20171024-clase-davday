@@ -1,4 +1,4 @@
-//David Pacheco 24-10-17
+//David Pacheco 24-10-17 número primos
 #include <iostream>
 using namespace std;
 
